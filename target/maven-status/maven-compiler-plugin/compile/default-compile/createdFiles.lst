@@ -1,0 +1,6 @@
+com/ikm/filemanagement/controller/ArisingFileController.class
+com/ikm/filemanagement/repository/ArisingFileRepository.class
+com/ikm/filemanagement/model/ArisingFile.class
+com/ikm/filemanagement/service/ArisingFileInterface.class
+com/ikm/filemanagement/FilemanagementApplication.class
+com/ikm/filemanagement/service/ArisingFileService.class
